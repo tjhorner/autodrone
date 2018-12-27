@@ -1,6 +1,6 @@
 {
   "name": "autodrone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automate drone flight with a simple scripting language",
   "main": "index.js",
   "bin": "./index.js",

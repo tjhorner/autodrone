@@ -6,10 +6,13 @@ A simple command-line tool utilizing `dronelib` to automate drone flights with a
 
 ## Usage
 
+First:
+
+```shell
+npm install -g autodrone # use sudo if needed
 ```
-autodrone [file]
-  Runs the specified `file`.
-```
+
+Then use the `autodrone` command on a script.
 
 ## Example
 
